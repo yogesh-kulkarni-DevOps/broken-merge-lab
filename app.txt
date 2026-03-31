@@ -1,2 +1,3 @@
 Version 1 - Stable Code
 Login Feature Added
+Critical Fix Applied
