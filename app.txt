@@ -3,3 +3,4 @@ Login Feature Added
 Login Feature Added again
 Login Feature Added
 Critical Fix Applied
+Critical Hot-Fix Applied
